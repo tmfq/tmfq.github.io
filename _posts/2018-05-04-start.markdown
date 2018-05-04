@@ -2,7 +2,9 @@
 layout: post
 title:  "Hallo Welt, kannst du micht hören..."
 date:   2018-05-04 13:37:42 +0200
-categories: no-tech
+categories:
+  - no-tech
+  - translated
 ---
 Guten Morgen Freunde!
 
@@ -16,6 +18,8 @@ Wenn jemand was findet und meint, helfen zu können kann er/sie/es uns das gerne
 Wir tun uns schon ganz dolle drauf freuen endlich mal jemandem von dem Mist den wir so machen zu erzählen. Das wird lustig.
 
 ---
+
+# Hello World, can you hear me...
 
 Hi!
 
