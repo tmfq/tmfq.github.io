@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog about tech, and our tech projects. Nothing more, nothing less. Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tmfq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb  # TODO: Make a twitter account. Maybe.
+# twitter_username: jekyllrb  # TODO: Make a twitter account. Maybe.
 github_username:  tmfq
 
 # Build settings
